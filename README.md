@@ -1,7 +1,12 @@
 # colocacion de creditos
 
-A short description of the project.
-  
+participantes:
+kevin josue santana toapanta 
+Andrea Cristina Pérez Romero 
+John Nelson Tobar Giraldo 
+Danny Rogelio Medina Moncayo
+
+
 ## Installation guide
 
 Please read [install.md](install.md) for details on how to set up this project.
